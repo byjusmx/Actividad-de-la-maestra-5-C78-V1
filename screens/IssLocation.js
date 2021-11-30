@@ -17,7 +17,7 @@ export default class IssLocationScreen extends Component {
                 <SafeAreaView style={styles.droidSafeArea} />
                 <ImageBackground source={require('../assets/bg.png')} style={styles.backgroundImage}>
                     <View style={styles.titleContainer}>
-                        <Text style={styles.titleText}>ISS Location</Text>
+                        <Text style={styles.titleText}>Localización EEI</Text>
                     </View>
                 </ImageBackground>
             </View>
